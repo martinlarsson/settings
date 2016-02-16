@@ -17,9 +17,6 @@
 	added = green bold
 	changed = yellow bold
 	untracked = red bold
-[github]
-	user = martinlarsson
-	token = token
 [alias]
 	a = add --all
 	c = commit
