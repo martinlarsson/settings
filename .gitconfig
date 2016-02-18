@@ -23,3 +23,5 @@
 	ca = commit -a
 	cm = commit -m
 	s = status
+[push]
+	default = simple
