@@ -44,7 +44,7 @@
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="19d72f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -84,7 +84,7 @@
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="19d72f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -579,7 +579,7 @@
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="19d72f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
@@ -790,7 +790,7 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="19d72f" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.ATTRIBUTE">
@@ -1362,7 +1362,7 @@
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="ff6a2b" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
