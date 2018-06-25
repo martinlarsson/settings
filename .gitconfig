@@ -1,6 +1,11 @@
 [user]
 	name = Martin Larsson
 	email = martin@mlarsson.se
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
 [color]
 	ui = auto
 [color "branch"]
